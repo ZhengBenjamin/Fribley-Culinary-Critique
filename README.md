@@ -1,4 +1,4 @@
-Project 3 of CSDS 221 Full Stack Web Development
+Fullstack app that allows users to rate a Fribley Commons dining hall at Case Western Reserve University
 
 This project was made with React, Bootstrap, Express, and MongoDB
 
